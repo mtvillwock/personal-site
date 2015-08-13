@@ -31,7 +31,8 @@
         font-size: 20px;
         padding: 5px;
         margin: 5px;
-        border-radius: 15px; }
+        border-radius: 15px;
+        border: none; }
     .main-display header.header .supertag {
       text-align: center;
       position: relative;
