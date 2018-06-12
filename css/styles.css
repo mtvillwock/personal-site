@@ -1,0 +1,28 @@
+.wrapper {
+  background-color: #efefef;
+  margin: auto;
+  max-width: 85%;
+  width: 30em;
+}
+
+.section-header {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 2em;
+}
+
+section {
+  padding: 2em;
+  line-height: 2em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.link {
+  text-decoration: none;
+  text-color: #00d0f8;
+}
+
+.strike {
+  text-decoration: line-through;
+}
